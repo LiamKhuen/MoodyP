@@ -9,9 +9,8 @@ Created by Eduardo Perez && Liam Khuen
 <h2>Why moodyP?</h2>
 
 <p>
-    Welcome! At the <i>MOODY FOUNDATION</i>©, we believe that sometimes coding can be a little <i>too</i>
-    simple (easy) sometimes. What happened to the days of unreliable punch cards and those little
-    math machines that broke all the f****** time?
+    Welcome! At the <i>MOODY FOUNDATION</i><sup>©</sup>, we believe that sometimes coding can be a little <i>too</i> simple (easy) 
+    sometimes. What happened to the days of unreliable punch cards and those little math machines that broke all the f****** time?
 </p>
 
 
@@ -43,7 +42,7 @@ Created by Eduardo Perez && Liam Khuen
 
 <p>
     WOAH WOAH there, cowboy! Why, you don’t even know any of the syntax or other specially scrumptious aspects of the MOODY FOUNDATION’s 
-    pride and joy of a language? Just settle on down and maybe have a smoke. Or not. We at the <i>MOODY FOUNDATION</i>©, like, don’t really care 
+    pride and joy of a language? Just settle on down and maybe have a smoke. Or not. We at the <i>MOODY FOUNDATION</i><sup>©</sup>, like, don’t really care 
     what you do with your body, man. Just chill out and ride the wave &#128520;
 </p>
 
@@ -55,17 +54,15 @@ Created by Eduardo Perez && Liam Khuen
 </p>
   
 <p>
-    moody() is a “class”. In the traditional world of computing, a class is
-    an abstract concept (that miners have been digging at for nearly 170 years
-    whilst subsequently trying to find a more suitable name for this darn idea)
-    that defines a structure which represents a container of <i>things</i>. What kind of
-    things? Well:
+    moody() is a “class”. In the traditional world of computing, a class is an abstract concept (that miners have been 
+    digging at for nearly 170 years whilst subsequently trying to find a more suitable name for this darn idea) that defines 
+    a structure which represents a container of <i>things</i>. What kind of things? Well:
 </p>
 
 <ul>
-    <li>Things like <i>var(s)</i> which store data</li>
-    <li>Things like <i>function(s)/procedure(s)</i> which do things with that data<</li>
-    <li>Things like <i>other stuff that we can talk about later since the two previous things are mostly used anyway</i></li>
+    <li><i>Var(s)</i> which store data</li>
+    <li><i>Function(s)/procedure(s)</i> which do things with that data</li>
+    <li><i>Other stuff that we can talk about later since the two previous things are mostly used anyway</i></li>
 </ul>
 
 <p>
@@ -76,8 +73,7 @@ Created by Eduardo Perez && Liam Khuen
 <h2>1.1.4 FOR EXAMPLE</h2>
 
 <p>
-    Let’s say you’ve got a nice, small dog. Now, this dog never growls, it never bites, but sometimes it likes
-    to walk and eat.
+    Let’s say you’ve got a nice, small dog. Now, this dog never growls, it never bites, but sometimes it likes to walk and eat.
 </p>
 
 <p align=center>
@@ -104,9 +100,8 @@ Created by Eduardo Perez && Liam Khuen
 <h2>1.1.5 WAIT WHAT’S THAT ONE THING BEFORE THE “EAT” PART</h2>
 
 <p>
-    Looks like we’ve got an observer over here! Yes, right before
-    the <b>name</b> of a Function/Subroutine/Method (yes, these are all names used interchangeably and
-    yes they all mean the same thing) you must describe what the hell it is first.
+    Looks like we’ve got an observer over here! Yes, right before the <b>name</b> of a Function/Subroutine/Method (yes, these are all 
+    names used interchangeably and yes they all mean the same thing) you must describe what the hell it is first.
 </p>
 
 
@@ -170,8 +165,7 @@ Created by Eduardo Perez && Liam Khuen
 <h2>1.1.9 PEMDAS PEMDAS PEMDAS PEMDAS</h2>
 
 <p>
-    No, <i>moodyP</i> may not have any broads in Atlanta, but it sure does have support for parenthetical
-    statements!
+    No, <i>moodyP</i> may not have any broads in Atlanta, but it sure does have support for parenthetical statements!
 </p>
 
 <p align=center>
@@ -182,10 +176,8 @@ Created by Eduardo Perez && Liam Khuen
 <h2>1.2.0 ERRORS AND ERRORS GALORE</h2>
 
 <p>
-    Let’s get this out of the way right now: you will get a ton of
-    errors while you program using <i>moodyP</i>.
-    You will try and try and pray and pray but the truth is your code will not or
-    ever work. Well, sometimes it will. Mostly it wont. 
+    Let’s get this out of the way right now: you will get a ton of errors while you program using <i>moodyP</i>. You will try 
+    and try and pray and pray but the truth is your code will not or ever work. Well, sometimes it will. Mostly it won't. 
 </p>
 
 <p>
@@ -229,7 +221,7 @@ Created by Eduardo Perez && Liam Khuen
 <h2>1.2.3 SO, WHAT’S NEXT?</h2>
 
 <p>
-    Wew, wasn’t that just a bundle of fun? We here at the <i>MOODY FOUNDATION</i>© would like to ensure that the BUCK DOES NOT STOP HERE. 
+    Wew, wasn’t that just a bundle of fun? We here at the <i>MOODY FOUNDATION</i><sup>©</sup> would like to ensure that the BUCK DOES NOT STOP HERE. 
     There will be an attempt made to ensure that the greatest in operations can be made with this new type of VAP-langauge in the future, 
     so stay tuned and gather your closest friends. You’re gonna need ‘em.
 </p>
@@ -238,21 +230,21 @@ Created by Eduardo Perez && Liam Khuen
 <h2>1.2.4 ACKNOWLEDGMENTS AND OTHER COOL STUFF</h2>
 
 <p>
-    The totally-not-made-up <i>MOODY FOUNDATION</i>© would like to thank Professor Bilal Shibaro for being 
+    The totally-not-made-up <i>MOODY FOUNDATION</i><sup>©</sup> would like to thank Professor Bilal Shibaro for being 
     so cool so as to allow us to create such a monster. No, he did not force us to make this. 
 </p>
 
-<p align=center style='text-align:center'>
-    <span style='font-size:8.0pt;line-height:120%'>
-        LEGAL: Please keep in mind that this is a school project and that if it seems professional in any way 
-        shape or form it was done so coincidentally and that none of the above should be taken seriously what soever.
-    </span>
-</p>
-
-<p align=center style='text-align:center'>
+<p align=center>
     listOfKeywords:
 </p>
 
 <p align=center>
   <img src='https://user-images.githubusercontent.com/19754429/195506474-ed407201-50d4-4d49-adcc-2a9b481af323.png' />
+</p>
+
+<p align=center>
+    <sub>
+        LEGAL: Please keep in mind that this is a school project and that if it seems professional in any way 
+        shape or form it was done so coincidentally and that none of the above should be taken seriously what soever.
+    </sub>
 </p>
